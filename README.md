@@ -1,5 +1,7 @@
 # NONLINEAR – Space Travel Edition
 
+https://carolinakrotschi.github.io/nonlinear/
+
 **Science doesn't have a type.**
 
 This repository contains the website for NONLINEAR Space Travel, the first edition of NONLINEAR.
